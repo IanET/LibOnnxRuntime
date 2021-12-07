@@ -1,0 +1,4 @@
+name = "LibOnnxRuntime"
+uuid = "edd8e961-822f-4801-b21c-cac5f01a00fa"
+authors = ["4thjuly <4thjuly@users.noreply.github.com>"]
+version = "0.1.0"
