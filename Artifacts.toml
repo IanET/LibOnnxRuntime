@@ -1,0 +1,6 @@
+[OnnxRuntime]
+git-tree-sha1 = "97ce4d0521771f4c332873cb7dd701b36a24c916"
+
+    [[OnnxRuntime.download]]
+    url = "https://media.githubusercontent.com/media/IanET/LibOnnxRuntimeGenerator/refs/heads/v1.20.1/microsoft.ml.onnxruntime.tar.gz"
+    sha256 = "f62b390c5223fe5730402534247f6a15ac337b733ea713f34839e01663856010"
