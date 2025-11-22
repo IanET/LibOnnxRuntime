@@ -1,7 +1,7 @@
 name = "LibOnnxRuntime"
 uuid = "edd8e961-822f-4801-b21c-cac5f01a00fa"
 authors = ["ianet <ianet@users.noreply.github.com>"]
-version = "1.20.1"
+version = "1.23.2"
 
 [deps]
 CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"

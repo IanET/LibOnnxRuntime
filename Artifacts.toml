@@ -1,6 +1,7 @@
 [OnnxRuntime]
-git-tree-sha1 = "97ce4d0521771f4c332873cb7dd701b36a24c916"
+git-tree-sha1 = "e200d3ceaab42d75a2aad3a399bacaab8eb7621d"
 
     [[OnnxRuntime.download]]
-    url = "https://media.githubusercontent.com/media/IanET/LibOnnxRuntimeGenerator/refs/heads/v1.20.1/microsoft.ml.onnxruntime.tar.gz"
-    sha256 = "f62b390c5223fe5730402534247f6a15ac337b733ea713f34839e01663856010"
+    url = "https://github.com/IanET/LibOnnxRuntimeGenerator/raw/refs/heads/main/microsoft.ml.onnxruntime.tar.gz"
+    sha256 = "a51fdce3946a8d49d44403cb8603c638e144a552b4579ae15b1e9a6291dba1cc"
+    
