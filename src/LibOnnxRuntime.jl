@@ -21,6 +21,7 @@ end
 const wchar_t = Cwchar_t
 const size_t = Csize_t
 const int64_t = Clonglong
+const uint64_t = Culonglong
 
 mutable struct OrtStatus end
 
