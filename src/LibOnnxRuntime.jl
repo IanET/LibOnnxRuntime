@@ -20,7 +20,7 @@ end
 
 const wchar_t = Cwchar_t
 const size_t = Csize_t
-const int64_t = Cint64
+const int64_t = CInt64
 
 mutable struct OrtStatus end
 
